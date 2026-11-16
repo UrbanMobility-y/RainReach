@@ -1,0 +1,18 @@
+# Python 3.11.17
+pandas==3.1.0
+numpy==2.4.6
+scipy==1.17.1
+pyfixest==0.60.0
+scikit-learn==1.9.1
+geopandas==1.2.0
+shapely==2.2.0
+pyproj==3.7.2
+matplotlib==3.11.2
+xarray==2026.9.0
+netCDF4==1.7.4
+pyarrow==25.0.0
+openpyxl==3.1.5
+# only needed to download ERA5-Land in 02_rainfall_and_events.py
+cdsapi
+# only needed to run the notebooks in Reproducibility/
+jupyter
