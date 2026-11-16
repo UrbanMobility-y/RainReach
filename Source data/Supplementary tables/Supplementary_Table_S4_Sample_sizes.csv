@@ -1,0 +1,13 @@
+﻿Event definition,Counterfactual,Extreme city-days,Catalogue events,Events in sample cities,S1 events,Without full support,Regained (±14-day hold-out),Regained (city x season),Not regained,S2 events,S3 events
+baseline,CF0,1205,1070,717,643,74,74,0,0,717,591
+baseline,CF1,1205,1070,717,643,74,74,0,0,717,591
+baseline,CF2,1205,1070,717,643,74,74,0,0,717,591
+RL3,CF0,313,304,201,198,3,3,0,0,201,186
+RL3,CF1,313,304,201,198,3,3,0,0,201,186
+RL3,CF2,313,304,201,198,3,3,0,0,201,186
+50mm,CF0,1120,990,680,606,74,74,0,0,680,554
+50mm,CF1,1120,990,680,606,74,74,0,0,680,554
+50mm,CF2,1120,990,680,606,74,74,0,0,680,554
+RL5,CF0,197,192,128,128,0,0,0,0,128,118
+RL5,CF1,197,192,128,128,0,0,0,0,128,118
+RL5,CF2,197,192,128,128,0,0,0,0,128,118

@@ -1,0 +1,6 @@
+﻿Test,Pre-set rule,Estimate [95% CI],Verdict
+K1 depth,day-0 small − mid/large < 0 and P < 0.05,"+0.01 [-1.63, 1.65], P = 0.992",FAIL
+K2 persistence,"CD_14 small > 0 with CI excluding 0, and CD_14 small − mid/large > 0 with P < 0.05","small +1.13 [-0.54, 2.81]; difference +0.21 [-1.14, 1.55], P = 0.763",FAIL
+"K2s persistence, sectors","CD_14 in-person > 0 with CI excluding 0, and in-person − remote > 0 with P < 0.05","in-person +1.89 [0.05, 3.73]; difference +2.79 [0.24, 5.35], P = 0.032",PASS
+K3 exposure gradient,"slope per +0.10 S < 0 with P < 0.05, and fewer than 5% of distance-matched placebo draws at least as negative","-1.64 [-3.10, -0.18], P = 0.028; placebo mean -2.04, share at least as negative 0.995",FAIL
+K4 income,"CD_14 small-ticket, top − bottom GDP-per-capita tercile, Holm P < 0.05 (Holm over small, in-person, total)","-1.01 [-3.58, 1.55], P = 0.436, Holm P = 1.000",FAIL

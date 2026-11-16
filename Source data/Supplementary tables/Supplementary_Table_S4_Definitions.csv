@@ -1,0 +1,14 @@
+﻿Dimension,Choice,Definition
+Event definition,>= 50 mm or >= 3-yr return level (main),Main: city-day >= 50 mm or >= the city's 3-year return level (1981–2016 fit)
+Event definition,>= 50 mm only,>= 50 mm only
+Event definition,>= 3-yr return level only,>= 3-year return level only
+Event definition,>= 5-yr return level only,>= 5-year return level only
+Counterfactual,City x month + date (main),"Main: PPML, city x month-of-year and date effects, event windows [start-28, end+28] held out"
+Counterfactual,Date effects from distant city-days,"As CF0, but date effects estimated only from city-days > 500 km from every >= 25 mm rainfall unit and every IBTrACS tropical-cyclone track point that day"
+Counterfactual,Region x date effects,As CF0 with 7-region x date effects
+Sample,Standard,Events with a complete counterfactual window and >= 7 clean pre-event days
+Sample,Plus regained events,S1 plus events whose missing counterfactual support is regained with a +/-14-day hold-out (717 under the main definition)
+Sample,Excluding Pearl River Delta,S1 without the 9 Pearl River Delta cities
+Winsorising,none,Event changes not winsorised
+Winsorising,1/99,Event changes winsorised at the 1st and 99th percentiles
+Winsorising,5/95,Event changes winsorised at the 5th and 95th percentiles

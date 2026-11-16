@@ -1,0 +1,10 @@
+﻿Quantity,Value
+Days in 2017-2019,1095.0
+Days in the worst 1% (k),11.0
+Cities,224.0
+"Days with a positive shortfall per city, median",2.0
+"Days with a positive shortfall per city, 90th percentile",6.0
+"Days with a positive shortfall per city, maximum",11.0
+Share of cities with <= k shortfall days,1.0
+Share of cities with no shortfall day,0.1428571428571428
+Share of event days with a negative shortfall (spending above normal),0.2396486825595985

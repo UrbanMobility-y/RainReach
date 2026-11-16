@@ -1,0 +1,8 @@
+﻿Step,Sample,Rule,Events,Cities,Rainfall systems,Used in,Dropped from previous step
+1,"Extreme-rainfall events in the catalogue, 2017–2019","City's run of extreme-rain days (>= 50 mm or >= 3-year return level, ERA5-Land; gaps <= 1 day); all rainfall units",1070,312.0,320.0,Supplementary Table S2,
+2,Events in the 225 sample cities,city has UnionPay card data,717,201.0,225.0,—,353.0
+3,Complete counterfactual window,counterfactual supported on every day from 14 days before onset to 14 days after the last rain day,643,199.0,211.0,—,74.0
+4,Analysed events,>= 7 clean pre-event days (days -14..-1 not exposed to another event of the city),643,199.0,211.0,"Figs 1, 4d; Supplementary Figs S1–S7",0.0
+5,Events with ex-ante shared-rain share S,"2018–2019 events matched to the city's prior-year partner network (2017, 2018)",440,188.0,141.0,"Fig. 1d (partner series), 3a, 3c",203.0
+6,Events in the rainfall-system fixed-effect regression,the event's rainfall system has at least two such events,364,168.0,65.0,Fig. 3b,76.0
+4a,Events in the extent regression (Fig. 1d slope),"step 4, cells of a single event in the city or year-month fixed effects dropped",591,,,"Fig. 1d; Supplementary Fig. S7, Table S6",52.0

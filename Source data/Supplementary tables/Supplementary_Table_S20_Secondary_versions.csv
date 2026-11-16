@@ -1,0 +1,11 @@
+﻿Version,Grouping,N focal,VR [95% CI],VR permutation P,RR [95% CI]
+"Ten-city groups, equal weights",Within province,130,"1.638 [1.142, 1.698]",0.001,"0.558 [0.505, 0.682]"
+"Ten-city groups, equal weights",Within city cluster,130,"1.263 [1.113, 1.433]",0.001,"0.541 [0.496, 0.663]"
+"Ten-city groups, equal weights",Existing demand ties,212,"1.199 [1.048, 1.229]",0.001,"0.479 [0.466, 0.573]"
+"Ten-city groups, equal weights","Nationwide, unselected",224,"1.058 [1.032, 1.067]",0.001,"0.425 [0.424, 0.536]"
+"Ten-city groups, equal weights",Beyond the rainfall system,224,"0.999 [0.997, 1.000]",0.248,"0.444 [0.435, 0.609]"
+"Five-city groups, spending weights",Within province,212,"1.070 [1.027, 1.094]",0.001,"0.738 [0.721, 0.819]"
+"Five-city groups, spending weights",Within city cluster,157,"1.068 [1.024, 1.092]",0.001,"0.724 [0.708, 0.832]"
+"Five-city groups, spending weights",Existing demand ties,223,"1.015 [1.000, 1.019]",0.001,"0.747 [0.717, 0.874]"
+"Five-city groups, spending weights","Nationwide, unselected",224,"1.014 [1.007, 1.016]",0.001,"0.690 [0.685, 0.782]"
+"Five-city groups, spending weights",Beyond the rainfall system,224,"0.999 [0.999, 1.000]",0.359,"0.758 [0.715, 0.946]"

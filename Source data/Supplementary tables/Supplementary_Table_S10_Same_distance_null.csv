@@ -1,0 +1,10 @@
+﻿Quantity,Value
+City-years,448.0
+Median geography share,0.9239749293903163
+"Geography share, 25th percentile",0.7792032393812368
+"Geography share, 75th percentile",1.126389459085356
+Aggregate geography share,0.914138412537703
+Pearson r of S with same-distance expectation,0.8827069866990593
+Share of city-years with S above the 97.5th percentile of the same-distance draws,0.02232142857142857
+Share of city-years with S below the 2.5th percentile of the same-distance draws,0.004464285714285714
+Median number of same-distance candidate units per partner,6.0

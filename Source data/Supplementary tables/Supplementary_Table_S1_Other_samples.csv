@@ -1,0 +1,8 @@
+﻿Sample,Rule,Units,Cities,Used in
+City-day panel,all city-days 2017–2019 (UnionPay),246375,225.0,Figs 1–4 (counterfactual)
+Dose-response panel,city-days 2018–2019 of cities with ERA5-Land daily rainfall,163520,224.0,Supplementary Fig. S3
+"City-years, all networks","city x network year 2017, 2018, 2019",672,224.0,"Figs 2, 4a"
+"City-years, networks used for events",network years 2017 and 2018 (events of 2018 and 2019),448,224.0,"Figs 1d, 3"
+Rainfall units (focal),ERA5-Land units with a co-occurrence estimate,367,,Fig. 2a
+Unit pairs,"ordered pairs of rainfall units with pi(i, j), 1981–2016",135056,,Fig. 2a
+Rain-free city-days,host city-days 2018–2019 used in the test for transmission,158456,224.0,Fig. 3d

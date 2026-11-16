@@ -1,0 +1,9 @@
+﻿Item,Definition
+Decline ratio,mean over events of the margin's change over event days / mean of the local change; 1 = falls as much as local
+Equal weights,every event weighted equally (typical city)
+Spending-weighted,event weight = mean actual place-based spending of the city (or of the sector group) over the clean pre-event days -14..-1
+Bootstrap,"rainfall systems resampled with replacement (block bootstrap; all events of a drawn system kept together); 1,999 draws; seed 2026; percentile 95% CI; draws redrawn within each subset; group differences use the same draws (paired by event)"
+Delta method,"two-way CRV1 (city, rainfall system) variance of the two means, t(G_min - 1)"
+City size,"city's mean daily place-based spending (local + inbound) 2017–2019, index units; terciles and quintiles over the 199 cities with an analysed event (a city exactly on a tercile edge joins the outer group)"
+Sector groups,"in-person: F52 retail; H, H61, H62 accommodation and catering; R86–R89 broadcasting and film, culture and arts, sport, entertainment; O79 resident services; O80 repair. Remote/large-ticket: F51 wholesale, K70 real estate, C29 and C36 automobiles, Y administrative fees. Other: all remaining codes (composition sheet only)"
+Sector counterfactuals,"the same counterfactual model as for the city totals (city x month-of-year and date effects, event windows held out), fitted separately for every sector group and margin; applied to the city totals it reproduces the main event changes to < 2e-6 pp"

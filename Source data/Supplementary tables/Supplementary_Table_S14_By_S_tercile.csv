@@ -1,0 +1,4 @@
+﻿S tercile,Events,Rainfall systems,Mean S,Mean peak rain (mm),Mean partner demand hit,Local (pp),Local CI low,Local CI high,Inbound (pp),Inbound CI low,Inbound CI high,Inbound - local (pp),Gap CI low,Gap CI high,Inbound / local
+Low,147,77,0.114,63.229,0.121,-9.413,-14.366,-4.46,-8.714,-13.536,-3.892,0.699,-3.665,5.063,0.926
+Middle,147,71,0.261,70.832,0.274,-13.037,-17.977,-8.098,-13.854,-19.707,-8.002,-0.817,-5.569,3.935,1.063
+High,146,63,0.416,75.389,0.36,-15.412,-22.866,-7.958,-14.521,-21.79,-7.252,0.891,-2.631,4.413,0.942

@@ -1,0 +1,25 @@
+﻿City cluster,National-level,Sample cities,Weighting,Largest n,X1 median at largest n,Peak day,Share of orderings with this peak day,Groups (orderings x focal),Rainfall system,Tropical cyclone,Member cities with an event that day,Members with an event that day
+JJJ,True,13,equal,13,0.3496574660019173,2018-07-24,1.0,2600,ME2017_2019_00176,Ampil,4,"Beijing, Tianjin, Langfang, Chengde"
+JJJ,True,13,spending,13,0.30166321546809,2018-07-24,1.0,2600,ME2017_2019_00176,Ampil,4,"Beijing, Tianjin, Langfang, Chengde"
+YRD,True,24,equal,20,0.4330008790376236,2019-08-10,0.9975,4800,ME2017_2019_00291,Lekima,16,"Shanghai, Nanjing, Taizhou, Jiaxing, Ningbo, Xuancheng, Changzhou, Wuxi, Hangzhou, Huzhou, Shaoxing, Wuhu, Suzhou, Jinhua, Zhenjiang, Ma'anshan"
+YRD,True,24,spending,20,0.3341628587893577,2019-08-10,1.0,4800,ME2017_2019_00291,Lekima,16,"Shanghai, Nanjing, Taizhou, Jiaxing, Ningbo, Xuancheng, Changzhou, Wuxi, Hangzhou, Huzhou, Shaoxing, Wuhu, Suzhou, Jinhua, Zhenjiang, Ma'anshan"
+PRD,True,9,equal,9,0.8162016328413785,2018-09-16,1.0,1800,ME2017_2019_00215,Mangkhut,9,"Dongguan, Zhongshan, Foshan, Guangzhou, Huizhou, Jiangmen, Shenzhen, Zhuhai, Zhaoqing"
+PRD,True,9,spending,9,0.2938768380762704,2018-09-16,1.0,1800,ME2017_2019_00215,Mangkhut,9,"Dongguan, Zhongshan, Foshan, Guangzhou, Huizhou, Jiangmen, Shenzhen, Zhuhai, Zhaoqing"
+MYR,True,22,equal,20,0.1795539116513512,2017-06-25,0.7202272727272727,4400,ME2017_2019_00034,-,6,"Jiujiang, Nanchang, Loudi, Jingdezhen, Xiangtan, Changsha"
+MYR,True,22,spending,20,0.1206053845977708,2017-06-25,0.9079545454545455,4400,ME2017_2019_00034,-,6,"Jiujiang, Nanchang, Loudi, Jingdezhen, Xiangtan, Changsha"
+CY,True,13,equal,13,0.2998615872831301,2018-07-11,1.0,2600,ME2017_2019_00163,-,3,"Deyang, Chengdu, Mianyang"
+CY,True,13,spending,13,0.0,2018-07-02,1.0,2600,ME2017_2019_00153,-,1,Chengdu
+Beibu,False,6,equal,6,0.5606926292115417,2018-09-17,1.0,1200,ME2017_2019_00215,Mangkhut,5,"Beihai, Nanning, Zhanjiang, Maoming, Yangjiang"
+Beibu,False,6,spending,6,0.3112077553637328,2018-09-17,1.0,1200,ME2017_2019_00215,Mangkhut,5,"Beihai, Nanning, Zhanjiang, Maoming, Yangjiang"
+CentralPlains,False,20,equal,20,0.4822435029008183,2018-08-18,1.0,4000,ME2017_2019_00198,Rumbia,8,"Pingdingshan, Xinxiang, Huaibei, Luohe, Heze, Bengbu, Xuchang, Zhengzhou"
+CentralPlains,False,20,spending,20,0.3420385632883777,2018-08-18,1.0,4000,ME2017_2019_00198,Rumbia,8,"Pingdingshan, Xinxiang, Huaibei, Luohe, Heze, Bengbu, Xuchang, Zhengzhou"
+Guanzhong,False,8,equal,8,0.0,2018-08-21,1.0,1600,ME2017_2019_00200,-,1,Qingyang
+Guanzhong,False,8,spending,8,0.0,2017-06-04,1.0,1600,ME2017_2019_00017,-,1,Xi'an
+HaChang,False,5,equal,5,0.2397872773929474,2018-08-24,1.0,1000,ME2017_2019_00203,-,2,"Jilin, Mudanjiang"
+HaChang,False,5,spending,5,0.03592581917834715,2018-08-24,1.0,1000,ME2017_2019_00203,-,2,"Jilin, Mudanjiang"
+LiaoCS,False,11,equal,11,0.0,2019-08-12,1.0,2200,ME2017_2019_00294,Lekima,1,Huludao
+LiaoCS,False,11,spending,11,0.04919661840432278,2018-08-20,1.0,2200,ME2017_2019_00199,Rumbia,8,"Dandong, Dalian, Fushun, Benxi, Panjin, Yingkou, Liaoyang, Anshan"
+Shandong,False,16,equal,16,0.646498469676323,2019-08-11,1.0,3200,ME2017_2019_00292,Lekima,12,"Dongying, Linyi, Weihai, Dezhou, Rizhao, Tai'an, Jinan, Zibo, Binzhou, Weifang, Yantai, Qingdao"
+Shandong,False,16,spending,16,0.6551238598286311,2019-08-11,1.0,3200,ME2017_2019_00292,Lekima,12,"Dongying, Linyi, Weihai, Dezhou, Rizhao, Tai'an, Jinan, Zibo, Binzhou, Weifang, Yantai, Qingdao"
+WestStrait,False,16,equal,16,0.2252711194054368,2018-07-11,1.0,3200,ME2017_2019_00164,Maria,4,"Sanming, Ningde, Wenzhou, Fuzhou"
+WestStrait,False,16,spending,16,0.3214669010506557,2018-07-11,1.0,3200,ME2017_2019_00164,Maria,4,"Sanming, Ningde, Wenzhou, Fuzhou"

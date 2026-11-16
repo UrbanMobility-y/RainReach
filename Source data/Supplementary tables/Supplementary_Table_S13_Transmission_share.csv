@@ -1,0 +1,8 @@
+﻿Quantity,Value,CI low,CI high,Note
+"Day-0 change in cities with extreme rain, local",-11.57156727455778,-14.98570079280977,-8.157433756305789,643 events; clustered by city and rainfall system
+"Day-0 change in cities with extreme rain, inbound",-11.06953846018195,-14.9896592902936,-7.149417630070294,643 events; clustered by city and rainfall system
+"Day-0 change in cities with extreme rain, outbound",-5.167944209024025,-7.236174358772146,-3.099714059275904,643 events; clustered by city and rainfall system
+Inbound estimate in cities without extreme rain (pp per +10 pp),-0.4005161779685288,-1.113856038120521,0.3128236821834635,two-way clustered
+Mean partner demand hit at events (share),0.251367877437125,,,440 events with a prior-year network
+Implied transmission change at day 0 (pp),-1.006769015351789,-2.108908572264154,0.04747711434107378,999 city-bootstrap draws
+transmission share of the day-0 inbound decline,0.09094950245425507,-0.004475206187758731,0.203454703156061,"999 city-bootstrap draws; cities only (bootstrap s.d. of the inbound estimate 0.220 against two-way s.e. 0.362), interval likely too narrow"
